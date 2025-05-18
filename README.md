@@ -31,11 +31,13 @@ The goal was to build a predictive model that can forecast whether it will snow 
 pip install -r requirements.txt
 ```
 
-2. Open the notebook:  
-jupyter notebook Coding_Challenge.ipynb
+2. Open the notebook:
 ```bash
-Google BigQuery credentials may be required for data access.
+jupyter notebook Coding_Challenge.ipynb
 ```
+
+Google BigQuery credentials may be required for data access.
+
 ---
 
 ## Notes on BigQuery Access
