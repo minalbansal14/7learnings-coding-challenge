@@ -29,6 +29,7 @@ The goal was to build a predictive model that can forecast whether it will snow 
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
 
 2. Open the notebook:  
 jupyter notebook Coding_Challenge.ipynb
@@ -45,7 +46,7 @@ If you wish to re-run the BigQuery queries:
 
 ```python
 %load_ext bigquery_magics
-
+```
 ---
 
 ## Author
